@@ -1,0 +1,17 @@
+{
+    "бродецкая": {
+        "name": "Мария",
+        "surname": "Бродецкая",
+        "video": "videos/brodetskaya.mp4"
+    },
+    "букатина": {
+        "name": "Дарья",
+        "surname": "Букатина",
+        "video": "videos/bukatina.mp4"
+    },
+    "foxold": {
+        "name": "Дорогой ученик",
+        "surname": "Фоксольд",
+        "video": "videos/alexander-ivanov.mp4"
+    }
+}
